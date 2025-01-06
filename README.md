@@ -37,7 +37,7 @@ macOS か Windows の場合、別途 [im-select](https://github.com/daipeihust/i
 ```lua
 require('lazy').setup({
   {
-    'amekusa/auto-input-switch',
+    'amekusa/auto-input-switch.nvim',
     config = function()
       require('auto-input-switch').setup({
         -- your options
