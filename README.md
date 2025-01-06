@@ -1,3 +1,5 @@
+# This repo moved to: https://github.com/amekusa/auto-input-switch.nvim
+
 # auto-input-switch.nvim
 This is a neovim plugin that automatically switches the input-sources (aka input-methods) of your keyboard on various occasions.<br>
 これはキーボードの入力モードを様々なタイミングで自動で切り替える neovim プラグインです。
